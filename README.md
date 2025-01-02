@@ -4,8 +4,11 @@ I am a senior student studying Computer Science. I have a strong interest in lea
 
 About Me:
 🔭 I’m currently working on personal Llamaindex projects
+
 🌱 I’m currently learning about Web Security and Data Science topics
+
 👯 I’m looking to collaborate on Open source projects that I find interesting
+
 🤔 I’m looking for help with finding a New Grad Position
 
 
